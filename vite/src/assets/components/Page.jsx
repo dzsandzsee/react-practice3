@@ -5,8 +5,7 @@ import "./Page.css"
 
 
 function Page ( {data} ) {
-    console.log(data)
-   
+
     return (
 
         <div className="page">
